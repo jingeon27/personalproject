@@ -11,3 +11,7 @@
 ## testing
 
 - 하위 로직은 ui에서 처리할 것이기 때문에 jest로 unit test cypress로 e2e테스트
+
+## 향후계획
+
+- 괜찮은 것 같은데 nextjs로 마이그레이션 예정
